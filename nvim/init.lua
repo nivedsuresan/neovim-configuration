@@ -1,0 +1,10 @@
+require("nived.core.options")
+require("nived.core.keymaps")
+require("nived.core.colorscheme")
+require("nived.plugins-setup")
+require("nived.plugins.comment")
+require("nived.plugins.nvim-tree")
+require("nived.plugins.telescope")
+require("nived.plugins.autopairs")
+require("nived.plugins.treesitter")
+
